@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Red Theme Palette -->
+    <color name="red_primary">#D32F2F</color>
+    <color name="red_primary_dark">#B71C1C</color>
+    <color name="red_accent">#E53935</color>
+    <color name="red_light">#FFEBEE</color>
+    <color name="red_border">#FFCDD2</color>
+
+    <!-- Neutral Colors -->
+    <color name="bg_main">#F8F9FA</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_muted">#9E9E9E</color>
+
+    <!-- Standard Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

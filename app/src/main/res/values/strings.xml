@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Quản Lý Ghi Chú</string>
+    <string name="title_app">Ghi Chú</string>
+    <string name="note_count_format">%1$d ghi chú</string>
+    <string name="search_hint">Tìm kiếm ghi chú…</string>
+    <string name="empty_notes">Chưa có ghi chú nào</string>
+    <string name="empty_notes_sub">Nhấn vào nút + bên dưới để thêm ghi chú mới</string>
+
+    <!-- Screen Titles -->
+    <string name="title_add_note">Tạo Ghi Chú Mới</string>
+    <string name="title_edit_note">Chỉnh Sửa Ghi Chú</string>
+    <string name="title_detail_note">Chi Tiết Ghi Chú</string>
+
+    <!-- Form Labels and Hints -->
+    <string name="title_hint">Tiêu đề ghi chú</string>
+    <string name="content_hint">Nội dung ghi chú</string>
+
+    <!-- Buttons -->
+    <string name="cancel">Hủy</string>
+    <string name="save">Lưu Ghi Chú</string>
+    <string name="update">Cập Nhật Ghi Chú</string>
+    <string name="delete">Xóa Ghi Chú</string>
+    <string name="edit">Chỉnh Sửa</string>
+    <string name="back">Quay lại</string>
+
+    <!-- Details Labels -->
+    <string name="id_format">#%1$d</string>
+    <string name="label_note_id">Mã ghi chú:</string>
+    <string name="label_created_at">Thời gian tạo:</string>
+    <string name="label_updated_at">Cập nhật lần cuối:</string>
+
+    <!-- Confirmation & Validation -->
+    <string name="confirm_delete_title">Xác nhận xóa ghi chú</string>
+    <string name="confirm_delete_msg">Bạn có chắc chắn muốn xóa ghi chú này không? Thao tác này không thể hoàn tác.</string>
+    <string name="error_empty_title">Tiêu đề không được để trống!</string>
+    <string name="error_empty_content">Nội dung không được để trống!</string>
+    <string name="msg_added">Đã tạo ghi chú mới thành công</string>
+    <string name="msg_updated">Đã cập nhật ghi chú thành công</string>
+    <string name="msg_deleted">Đã xóa ghi chú thành công</string>
+    <string name="msg_not_found">Không tìm thấy ghi chú</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_edit">Chỉnh sửa ghi chú</string>
+    <string name="cd_delete">Xóa ghi chú</string>
+    <string name="cd_add">Tạo ghi chú mới</string>
+    <string name="cd_back">Quay lại</string>
+</resources>
